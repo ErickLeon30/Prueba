@@ -10,7 +10,8 @@ namespace hid
     {
         static void Main(string[] args)
         {
-            
+            int Hola = 1;
+            Console.WriteLine(Hola);
         }
     }
 }
